@@ -26,13 +26,13 @@ In Gitbash:
 
 
 
-2\. Create the environment
+2\. Create the environment in blast-pipeline
 
 micromamba create -f environment-win.yml -y
 
 
 
-3\. Activate it
+3\. Activate it the environment
 
 micromamba activate blast
 
@@ -46,6 +46,7 @@ micromamba activate blast
 
 ###### ***Close the App:***
 * Ctrl + C in Gitbash
+
 
 
 
