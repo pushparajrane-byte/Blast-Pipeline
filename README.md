@@ -63,11 +63,12 @@ ATGCCGTAGCTAGCTAGCTA
 
 
 
-4\. Sequences can be wrapped across multiple lines, but should only contain valid nucleotide letters (A, T, G, C, N).
+4\. Sequences can be wrapped across multiple lines, but should only contain valid nucleotide letters (A, T, G, C, N). N = any nucleotide (A, T, G, or C), completely unknown base.
 
 
 
 5\. Save the file in plain text format (.fasta, .fa, .txt) without formatting (avoid MS Word etc.).
+
 
 
 
