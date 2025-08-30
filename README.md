@@ -45,7 +45,7 @@ micromamba activate blast
 * Click Run BLAST
 
 ###### ***Stop the App:***
-* Ctrl + C in Gitbash
+* Ctrl + c in Gitbash
 
 ###### ***FASTA File Requirements***
 1\. When pasting or uploading FASTA files, please ensure:
@@ -68,6 +68,7 @@ ATGCCGTAGCTAGCTAGCTA
 
 
 5\. Save the file in plain text format (.fasta, .fa, .txt) without formatting (avoid MS Word etc.).
+
 
 
 
