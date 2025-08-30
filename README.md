@@ -1,8 +1,6 @@
 #### 🧬 BLAST Pipeline
 
-This project provides a pipeline to run BLASTN searches from FASTA sequences and explore results in a Streamlit web app.
-
-It lets you manually paste or upload FASTA files, run BLAST, and filter results by alignment length, % identity, and e-value.
+This project provides a pipeline to run BLASTN searches from FASTA sequences and explore results in a Streamlit web app. It lets you manually paste or upload FASTA files, run BLAST, and filter results by alignment length, % identity, and e-value.
 
 
 
@@ -45,6 +43,7 @@ micromamba activate blast
 * streamlit run app.py
 * Choose Paste FASTA or Upload FASTA
 * Click Run BLAST
+
 
 
 
