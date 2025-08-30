@@ -23,7 +23,7 @@ This project provides a pipeline to run BLASTN searches from Nucleotide sequence
 
 * cd blast-pipeline
 
-
+>All further steps are to be done in blast-pipeline folder
 2\. Create the environment in blast-pipeline in Gitbash
 
 micromamba create -f environment-win.yml -y
@@ -66,6 +66,7 @@ ATGCCGTAGCTAGCTAGCTA
 
 
 5\. Save the file in plain text format (.fasta, .fa, .txt) without formatting (avoid MS Word etc.).
+
 
 
 
