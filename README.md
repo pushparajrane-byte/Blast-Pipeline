@@ -44,8 +44,21 @@ micromamba activate blast
 * Choose Paste FASTA or Upload FASTA
 * Click Run BLAST
 
-###### ***Close the App:***
+###### ***Stop the App:***
 * Ctrl + C in Gitbash
+
+###### ***FASTA File Requirements***
+1\. When pasting or uploading FASTA files, please ensure:
+Each sequence must begin with a header line starting with >.
+Example:
+>sequence1
+ATGCCGTAGCTAGCTAGCTA
+2\. Do not leave empty lines before the first header.
+3\. No spaces before >, the first character of the file should be >.
+4\. Sequences can be wrapped across multiple lines, but should only contain valid nucleotide letters (A, T, G, C, N).
+5\. Save the file in plain text format (.fasta, .fa, .txt) without formatting (avoid MS Word etc.).
+
+
 
 
 
