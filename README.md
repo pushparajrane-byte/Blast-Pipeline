@@ -44,7 +44,8 @@ micromamba activate blast
 * Choose Paste FASTA or Upload FASTA
 * Click Run BLAST
 
-
+###### ***Close the App:***
+* Ctrl + C in Gitbash
 
 
 
