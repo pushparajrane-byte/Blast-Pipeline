@@ -13,7 +13,7 @@ This project provides a pipeline to run BLASTN searches from FASTA sequences and
 3\. NCBI BLAST+ executables (https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
 
 
-
+In Gitbash:
 ###### ***Setup for Windows:***
 
 1\. Clone this repository
@@ -43,6 +43,7 @@ micromamba activate blast
 * streamlit run app.py
 * Choose Paste FASTA or Upload FASTA
 * Click Run BLAST
+
 
 
 
