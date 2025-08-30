@@ -51,7 +51,7 @@ micromamba activate blast
 1\. When pasting or uploading FASTA files, please ensure:
 Each sequence must begin with a header line starting with >.
 Example:
->sequence1
+.>sequence1
 ATGCCGTAGCTAGCTAGCTA
 
 2\. Do not leave empty lines before the first header.
@@ -67,6 +67,7 @@ ATGCCGTAGCTAGCTAGCTA
 
 
 5\. Save the file in plain text format (.fasta, .fa, .txt) without formatting (avoid MS Word etc.).
+
 
 
 
