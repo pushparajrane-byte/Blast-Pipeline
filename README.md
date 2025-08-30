@@ -8,7 +8,7 @@ It lets you manually paste or upload FASTA files, run BLAST, and filter results 
 
 ###### ***Requirements:***
 
-1\. Gitbash for Windows (We’ll use Gitbash as the terminal)
+1\. Gitbash for Windows (We’ll use Gitbash as the terminal) (https://git-scm.com/downloads/win)
 
 2\. Micromamba (https://mamba.readthedocs.io/en/latest/installation/micromamba-installation.html)
 
@@ -45,6 +45,7 @@ micromamba activate blast
 * streamlit run app.py
 * Choose Paste FASTA or Upload FASTA
 * Click Run BLAST
+
 
 
 
