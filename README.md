@@ -38,7 +38,7 @@ micromamba activate blast
 
 
 
-###### ***Run the App:***
+###### ***Run the App:*** (Whenever one wants to run the app, they should open Gitbash in the blast_pipeline folder)
 
 * streamlit run app.py
 * Choose Paste FASTA or Upload FASTA
@@ -67,6 +67,7 @@ ATGCCGTAGCTAGCTAGCTA
 
 
 5\. Save the file in plain text format (.fasta, .fa, .txt) without formatting (avoid MS Word etc.).
+
 
 
 
