@@ -2,17 +2,13 @@ name: blast
 channels:
   - conda-forge
   - bioconda
-  - defaults
 channel_priority: strict
 dependencies:
   - python=3.11
-  - blast=2.17.0
   - pandas
-  - polars
-  - plotnine
-  - requests
-  - lxml
-  - pyarrow
-  - biopython
   - streamlit
-  - pip
+  - biopython
+  - lxml
+  - requests
+  - plotnine
+  - pyarrow
