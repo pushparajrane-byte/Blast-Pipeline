@@ -18,7 +18,7 @@ In Gitbash:
 
 1\. Clone this repository
 
-* git clone https://github.com/pushparajrane-byte/Blast-Pipeline.git
+* git clone https://github.com/pushparajrane-byte/blast-pipeline.git
 
 
 
@@ -46,6 +46,7 @@ micromamba activate blast
 
 ###### ***Close the App:***
 * Ctrl + C in Gitbash
+
 
 
 
