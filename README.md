@@ -13,8 +13,7 @@ This project provides a pipeline to run BLASTN searches from Nucleotide sequence
 3\. NCBI BLAST+ executables (https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
 
 
-In Gitbash:
-###### ***Setup for Windows:***
+###### ***Setup for Windows in Gitbash:***
 
 1\. Clone this repository
 
@@ -25,26 +24,25 @@ In Gitbash:
 * cd blast-pipeline
 
 
-
-2\. Create the environment in blast-pipeline
+2\. Create the environment in blast-pipeline in Gitbash
 
 micromamba create -f environment-win.yml -y
 
 
-
-3\. Activate it the environment
+3\. Activate it the environment in Gitbash
 
 micromamba activate blast
 
 
 
-###### ***Run the App:*** (Whenever one wants to run the app, they should open Gitbash in the blast_pipeline folder)
+###### ***Run the App in Gitbash:*** (Whenever one wants to run the app, they should open Gitbash in the blast_pipeline folder)
 
 * streamlit run app.py
 * Choose Paste FASTA or Upload FASTA
 * Click Run BLAST
 
-###### ***Stop the App:***
+
+###### ***Stop the App in Gitbash:***
 * Ctrl + c in Gitbash
 
 ###### ***FASTA File Requirements***
@@ -68,6 +66,7 @@ ATGCCGTAGCTAGCTAGCTA
 
 
 5\. Save the file in plain text format (.fasta, .fa, .txt) without formatting (avoid MS Word etc.).
+
 
 
 
