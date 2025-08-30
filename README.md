@@ -59,7 +59,7 @@ ATGCCGTAGCTAGCTAGCTA
 
 
 
-3\. No spaces before >, the first character of the file should be >.
+3\. No spaces before >, the first character of the file should be > and the sequence should be on the second line.
 
 
 
@@ -68,6 +68,7 @@ ATGCCGTAGCTAGCTAGCTA
 
 
 5\. Save the file in plain text format (.fasta, .fa, .txt) without formatting (avoid MS Word etc.).
+
 
 
 
