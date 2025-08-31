@@ -70,6 +70,8 @@ ATGCCGTAGCTAGCTAGCTA
 
 5\. Save the file in plain text format (.fasta, .fa, .txt) without formatting (avoid MS Word etc.).
 
+⚠️ Important: Please do not place the blast-pipeline folder in a path with spaces (e.g. C:\Users\Name\Desktop\New folder\). BLAST tools can fail with paths containing spaces. Instead, use a path without spaces, such as C:\Users\Name\blast-pipeline\.
+
 
 ###### ***Screenshots and video demo:***
 Video demo: https://youtu.be/rZDzWSxP8LQ
@@ -87,7 +89,7 @@ Screenshots:
 3\. Upload FASTA results: <img width="2478" height="1225" alt="upload_FASTA_results" src="https://github.com/user-attachments/assets/bbea2538-6e70-4f64-9e20-93d6c4568a5a" />
 
 
-⚠️ Important: Please do not place the blast-pipeline folder in a path with spaces (e.g. C:\Users\Name\Desktop\New folder\). BLAST tools can fail with paths containing spaces. Instead, use a path without spaces, such as C:\Users\Name\blast-pipeline\.
+
 
 
 
