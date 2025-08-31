@@ -38,13 +38,15 @@ micromamba activate blast
 
 ###### ***Run the App in Gitbash:*** (Whenever one wants to run the app, they should open Gitbash in the blast_pipeline folder)
 
-* streamlit run app.py
+streamlit run app.py
+
+ 
 * Choose Paste FASTA or Upload FASTA
 * Click Run BLAST
 
 
 ###### ***Stop the App in Gitbash:***
-* Ctrl + c in Gitbash
+Ctrl + c in Gitbash
 
 ###### ***FASTA File Requirements***
 1\. When pasting or uploading FASTA files, please ensure:
@@ -86,6 +88,7 @@ Screenshots:
 
 
 ⚠️ Important: Please do not place the blast-pipeline folder in a path with spaces (e.g. C:\Users\Name\Desktop\New folder\). BLAST tools can fail with paths containing spaces. Instead, use a path without spaces, such as C:\Users\Name\blast-pipeline\.
+
 
 
 
