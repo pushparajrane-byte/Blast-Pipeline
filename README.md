@@ -17,11 +17,10 @@ This project provides a pipeline to run BLASTN searches from Nucleotide sequence
 
 1\. Clone this repository
 
-* git clone https://github.com/pushparajrane-byte/blast-pipeline.git
+git clone https://github.com/pushparajrane-byte/blast-pipeline.git
 
 
-
-* cd blast-pipeline
+cd blast-pipeline
 
 >All further steps are to be done in blast-pipeline folder
 
@@ -87,6 +86,7 @@ Screenshots:
 
 
 ⚠️ Important: Please do not place the blast-pipeline folder in a path with spaces (e.g. C:\Users\Name\Desktop\New folder\). BLAST tools can fail with paths containing spaces. Instead, use a path without spaces, such as C:\Users\Name\blast-pipeline\.
+
 
 
 
