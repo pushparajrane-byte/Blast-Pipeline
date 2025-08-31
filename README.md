@@ -71,7 +71,7 @@ ATGCCGTAGCTAGCTAGCTA
 
 
 ###### ***Screenshots and video demo:***
-Video demo: https://youtu.be/hIy_-gziZAw
+Video demo: https://youtu.be/rZDzWSxP8LQ
 
 
 Screenshots: 
@@ -84,6 +84,7 @@ Screenshots:
 
 
 3\. Upload FASTA results: <img width="2478" height="1225" alt="upload_FASTA_results" src="https://github.com/user-attachments/assets/bbea2538-6e70-4f64-9e20-93d6c4568a5a" />
+
 
 
 
